@@ -15,31 +15,26 @@
 ### I have solved a series of problems, such as battery display & sleep with cover closed (probability of collapse). The only problem is that sometimes the power is not cut off when the power is turned off. This problem occurs when the power is upgraded to 15.4. Please check it, thank you!
 
 # This EFI can only be used when the CFG is unlocked. I use grub command to unlock it. Make sure your BIOS is upgraded to A12. Then use grub command to unlock the command as follows
-` ` ` shell
+``` 
 1.setup_var_3 0x95
 2.setuo_var_3 0x95 0x00
-`  ` `
+```
 
 # About reward
+   <details>
+   <summary>支付宝&微信</summary>
    <div align=center><img width="150" height="150" src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/WeChat.png"/></div>
-   微信支付
-   <div align=center><img width="150" height="150" src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/WeChat.png"/></div>
-   支付宝
-   
+   <div align=center><img width="150" height="150" src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/Alipay.png"/></div>
+   </details>
+
 # This EFI contributor
-@[黑果小兵(daliansky)](https://github.com/daliansky)
-
-@天成小爱
-
-@黑果小兵微信群的所有人
-
-@云朵有点甜
-
-@小乐
-
-@[远景论坛](http://pcbeta.com)的大神
-
-@My (xiaolegun)
+- @[黑果小兵(daliansky)](https://github.com/daliansky)
+- @天成小爱
+- @黑果小兵微信群的所有人
+- @云朵有点甜
+- @小乐
+- @[远景论坛](http://pcbeta.com)的大神
+- @My (xiaoleGun)
 
 # Warning！Warning！Warning！
 ## All of the above English is translated by Baidu translator. I will not give any feedback or compensation for any grammatical mistakes or national language discrimination.
