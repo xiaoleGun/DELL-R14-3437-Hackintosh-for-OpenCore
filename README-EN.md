@@ -1,6 +1,6 @@
 # DELL-R14-3437-Hackintosh-for-OpenCore
 
-## [English](https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/README-EN/README-EN.md)
+## [English](https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/README-EN.md)
 ## [简体中文](https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/README.md)
 
 ### This is the first hackintosh boot that I maintain. It works well on my device dell-r14-3437. My configuration is listed below.
@@ -22,9 +22,9 @@
 
 # About reward
    <details>
-   <summary>Alipay&WeChat</summary>
- <img src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/WeChat.png" width="200px"  />
- <img src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/Alipay.png" width="200px" />
+   <summary>WeChat&Alipay</summary>
+ <img src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/WeChat.png" width="250px"  />
+ <img src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/Alipay.png" width="250px" />
    </details>
 
 # This EFI contributor
