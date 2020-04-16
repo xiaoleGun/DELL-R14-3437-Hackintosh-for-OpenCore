@@ -1,7 +1,7 @@
 # DELL-R14-3437-Hackintosh-for-OpenCore
 
 ## [English](https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/README-EN.md)
-## [简体中文](https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/README.md)
+## [简体中文](https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore)
 
 ### This is the first hackintosh boot that I maintain. It works well on my device dell-r14-3437. My configuration is listed below.
 

@@ -1,7 +1,7 @@
 # DELL-R14-3437-Hackintosh-for-OpenCore
 
 ## [English](https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/README-EN.md)
-## [简体中文](https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/README.md)
+## [简体中文](https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore)
 
 ### 这是我维护的第一个Hackintosh的引导，它在我的设备DELL-R14-3437运行的很好，下面列出我的配置。
 
