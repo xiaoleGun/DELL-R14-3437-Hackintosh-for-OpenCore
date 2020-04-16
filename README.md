@@ -15,20 +15,28 @@
 ### 电池显示 & 合盖睡眠(几率崩溃)等等一系列的问题我都已经解决了，唯一的一个问题是关机有时候不断电,这个故障是在升级到15.4发生的,各位排查一下,谢谢！
 
 # 这个EFI必须要解锁CFG才能使用,我是使用grub命令解锁的，确保你们的BIOS升级到了A12,然后使用grub命令解锁命令如下
-    ```shell
+` ` `
+//代码块
+int a=0;
+a++;
 setup_var_3 0x95
 setuo_var_3 0x95 0x00
-    ` ` `
+` ` `
      
 # 关于打赏
-   ![](WeChat.png)          ![](Alipay.png)
-## 微信支付         支付宝
+<div align=center><img width="150" height="150" src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/WeChat.png"/></div>
 
 # 这个EFI的贡献者
 @[黑果小兵(daliansky)](https://github.com/daliansky)
+
 @天成小爱
+
 @黑果小兵微信群的所有人
+
 @云朵有点甜
+
 @小乐
+
 @远景论坛上的一些大佬
+
 @我(xiaoleGun)
