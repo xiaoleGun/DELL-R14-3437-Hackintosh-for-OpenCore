@@ -1,7 +1,7 @@
 # DELL-R14-3437-Hackintosh-for-OpenCore
 
-## [English]()
-## [简体中文]()
+## [English](https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/README-EN/README-EN.md)
+## [简体中文](https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/README.md)
 
 ### 这是我维护的第一个Hackintosh的引导，它在我的设备DELL-R14-3437运行的很好，下面列出我的配置。
 
@@ -15,16 +15,16 @@
 ### 电池显示 & 合盖睡眠(几率崩溃)等等一系列的问题我都已经解决了，唯一的一个问题是关机有时候不断电,这个故障是在升级到15.4发生的,各位排查一下,谢谢！
 
 # 这个EFI必须要解锁CFG才能使用,我是使用grub命令解锁的，确保你们的BIOS升级到了A12,然后使用grub命令解锁命令如下
-` ` `
-//代码块
-int a=0;
-a++;
-setup_var_3 0x95
-setuo_var_3 0x95 0x00
+` ` ` shell
+1.setup_var_3 0x95
+2.setuo_var_3 0x95 0x00
 ` ` `
      
 # 关于打赏
 <div align=center><img width="150" height="150" src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/WeChat.png"/></div>
+微信支付
+<div align=center><img width="150" height="150" src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/WeChat.png"/></div>
+支付宝
 
 # 这个EFI的贡献者
 @[黑果小兵(daliansky)](https://github.com/daliansky)

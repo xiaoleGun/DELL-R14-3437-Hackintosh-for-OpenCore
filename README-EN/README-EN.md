@@ -1,7 +1,7 @@
 # DELL-R14-3437-Hackintosh-for-OpenCore
 
-## [English]()
-## [simplified Chinese] ()
+## [English](https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/README-EN/README-EN.md)
+## [简体中文](https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/README.md)
 
 ### This is the first hackintosh boot that I maintain. It works well on my device dell-r14-3437. My configuration is listed below.
 
@@ -16,21 +16,29 @@
 
 # This EFI can only be used when the CFG is unlocked. I use grub command to unlock it. Make sure your BIOS is upgraded to A12. Then use grub command to unlock the command as follows
 ` ` ` shell
-setup_var_3 0x95
-setuo_var_3 0x95 0x00
+1.setup_var_3 0x95
+2.setuo_var_3 0x95 0x00
 `  ` `
 
 # About reward
-   ![](WeChat.png)                ![](Alipay.png)
-## WeChat pay         Alipay
-
+   <div align=center><img width="150" height="150" src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/WeChat.png"/></div>
+   微信支付
+   <div align=center><img width="150" height="150" src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/WeChat.png"/></div>
+   支付宝
+   
 # This EFI contributor
 @[黑果小兵(daliansky)](https://github.com/daliansky)
+
 @天成小爱
+
 @黑果小兵微信群的所有人
+
 @云朵有点甜
+
 @小乐
+
 @[远景论坛](http://pcbeta.com)的大神
+
 @My (xiaolegun)
 
 # Warning！Warning！Warning！
