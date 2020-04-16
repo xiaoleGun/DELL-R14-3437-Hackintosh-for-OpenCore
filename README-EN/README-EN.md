@@ -22,8 +22,9 @@
 
 # About reward
    <details>
-   <summary>支付宝&微信</summary>
-   <div align=center><img width="150" height="150" src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/WeChat.png"/></div><div align=center><img width="150" height="150" src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/Alipay.png"/></div>
+   <summary>Alipay&WeChat</summary>
+ <img src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/WeChat.png" width="200px"  />
+ <img src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/Alipay.png" width="200px" />
    </details>
 
 # This EFI contributor

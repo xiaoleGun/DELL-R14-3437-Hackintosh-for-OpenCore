@@ -20,11 +20,11 @@
 2.setuo_var_3 0x95 0x00
 ```
 # 关于打赏
-<details>
-<summary>支付宝&微信</summary>
-<div align=center><img width="150" height="150" src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/WeChat.png"/></div>
-<div align=center><img width="150" height="150" src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/Alipay.png"/></div>
-</details>
+ <details>
+  <summary>支付宝&微信</summary>
+<img src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/WeChat.png" width="200px"  />
+<img src="https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/Alipay.png" width="200px" />
+  </details>
 
 # 这个EFI的贡献者
 - @[黑果小兵(daliansky)](https://github.com/daliansky)
