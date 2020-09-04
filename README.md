@@ -3,6 +3,8 @@
 ## [English](https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/README-EN.md)
 ## [简体中文](https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore)
 
+##  重大更新此次引导更新支持了Big Sur！！！
+
 ### 这是我维护的第一个Hackintosh的引导，它在我的设备DELL-R14-3437运行的很好，下面列出我的配置。
 
 ### CPU：i5 4200U 变频比较正常一共是5个档

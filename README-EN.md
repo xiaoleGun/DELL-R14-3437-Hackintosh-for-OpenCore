@@ -3,6 +3,8 @@
 ## [English](https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore/blob/master/README-EN.md)
 ## [简体中文](https://github.com/xiaoleGun/DELL-R14-3437-Hackintosh-for-OpenCore)
 
+## Update supports Big Sur!!! for Mac OS 11
+
 ### This is the first hackintosh boot that I maintain. It works well on my device dell-r14-3437. My configuration is listed below.
 
 ### CPU: i5 4200U frequency conversion is normal, 5 gears in total
